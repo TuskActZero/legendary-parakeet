@@ -1,0 +1,17 @@
+.titulo{
+    text-align: center;
+}
+
+.card{
+    background-color: deeppink;
+
+}
+
+.prueba{
+    background-color: gold;
+    display: inline;
+}
+
+.img{
+    width: 300px;
+}
