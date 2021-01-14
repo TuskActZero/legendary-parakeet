@@ -1,5 +1,6 @@
 .titulo{
     text-align: center;
+    color: white;
 }
 
 .card{
@@ -14,4 +15,13 @@
 
 .img{
     width: 300px;
+}
+
+.body{
+    background-color: darkblue;
+}
+
+.titulo1{
+    background-color: white;
+    display: block;
 }
